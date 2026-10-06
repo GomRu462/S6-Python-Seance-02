@@ -14,3 +14,7 @@ en Fahrenheit avec la formule : F = C * 9 / 5 + 32
 # TODO : calcule fahrenheit avec la formule
 
 # TODO : affiche le résultat
+celsius_txt=input("température en celsius")
+celsius=float(celsius_txt)
+fahrenheit=celsius*9/5+32
+print=("température en fahrenheit",fahrenheit)

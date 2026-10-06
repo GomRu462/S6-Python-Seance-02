@@ -13,3 +13,6 @@ largeur = 3.0
 # TODO : calcule aire et perimetre
 
 # TODO : affiche "Aire : ... m², Périmètre : ... m"
+aire=longueur*largeur
+perimetre=(2*(longueur+largeur))
+print(f"aire,{aire},perimetre{perimetre}")

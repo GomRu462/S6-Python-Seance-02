@@ -12,3 +12,7 @@ Exemple attendu :
 # TODO : crée les variables nom, age, taille
 
 # TODO : affiche la phrase avec une f-string
+name=input("entre ton nom")
+age=int(input("entre ton age"))
+taille=float(input("entre ta taille en metre"))
+print(f"je m appele{name},j ai{age},jai{taille}")

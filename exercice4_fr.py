@@ -10,3 +10,5 @@ puis affiche-le.
 prix_ht = 24.90
 
 # TODO : ton code ici
+prix_ttc=round(prix_ht*1.20,2)
+print(prix_ttc)
